@@ -29,5 +29,13 @@ public static void buildHeapbottomUp(String[] a, int n, int i) {
     }
     // build a heap from top down using insert(node n) 
 
-    public sta
+    public static void buildHeaptopDown(String[]a, int n, int i){
+        for int (i = 1; i< a.length; i++){
+            insert(a,i);
+        }
+
+        public static void 
+
+
+    }
 }
