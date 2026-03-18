@@ -46,7 +46,7 @@ public class Main {
 
         if (a[i].compareTo(a[parent]) > 0) {
             String temp = a[i];
-            a[i] = a[parent];
+             a[i] = a[parent];
             a[parent] = temp;
 
             insert(a, parent);
