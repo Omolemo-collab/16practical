@@ -1,3 +1,1 @@
-public static void main(String[] args) {
-    
-}
+//build a heap from bottom up 
